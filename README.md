@@ -10,5 +10,6 @@ Student Info
 =========================
 
 * Student Name: Bui Quoc Trung 
-* Student ID: Bi12-454
+* Student ID: Bi12-454 
+* Group: 5 
 
